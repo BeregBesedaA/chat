@@ -1,0 +1,13 @@
+BODY {
+  background-color: #ff8e8e;
+  color: #001616;
+  font-size: 90%;
+}
+
+XMP {
+  display: inline-block;
+}
+.all {
+  width: 1200px;
+  margin: 0 auto;
+}

@@ -1,0 +1,38 @@
+HEADER {
+  width: 100%;
+  height: 130px;
+  min-width: 150px;
+
+  box-sizing: border-box;
+  border-radius: 25px;
+  background-color: orange;
+
+  padding: 2.5% 20%;
+  box-sizing: border-box;
+  padding: 2%;
+}
+
+HEADER A {
+  display: block;
+}
+
+.a A:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.lenght {
+  margin-bottom: 10px;
+}
+
+.header_text {
+  float: left;
+  font-size: 80%;
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+  float: left;
+  margin: -10px 30%;
+}
